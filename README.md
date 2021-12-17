@@ -1,0 +1,2 @@
+# pictionIAry
+PictionIAry : dessins ludiques et amusants entre amis rigolos est un jeu de dessin dans lequel différents joueurs s’affrontent dans le but de produire le dessin le plus proche d’un mot (par exemple chien). Le juge est joué par une IA qui aura été entraînée au préalable grâce au dataset Quick Draw! de Google. Le visiteur pourra créer son utilisateur, puis créer des parties, en rejoindre, discuter avec ses adversaires et bien entendu dessiner. A la fin d’une partie, il devra être capable de partager sa partie sur les réseaux-sociaux.
